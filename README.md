@@ -1,21 +1,19 @@
 # Project Name
-> Here goes your awesome project description!
+> Machine Learning Projects
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+This repository contains parts of the projects I had the opportunity to work on during my MSc in Data Analytics at University of Strathclyde (Glasgow, UK).
 
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+Projects:
+1. Bristol Price Regression: individual project.
+2. DeepLearning: part of a bigger group project, in which I worked in collaboration with 2 colleagues, on 2 datasets (IMDB and fashion MNIST), applying Deep Learning techniques for supervised learning (sentiment analysis and image classification). 
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -25,25 +23,8 @@ Add more general information about project. What the purpose of the project is? 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
 
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
-## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
-
-To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
-
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
+Project is: _finished_
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Created by mary@hotmail.it - feel free to contact me!
