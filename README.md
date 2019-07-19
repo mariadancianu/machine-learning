@@ -1,5 +1,4 @@
-# Project Name
-> Machine Learning Projects
+# Machine Learning
 
 ## Table of contents
 * [General info](#general-info)
