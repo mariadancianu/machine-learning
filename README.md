@@ -11,7 +11,7 @@ This repository contains some projects that I had the opportunity to work on dur
 
 Projects:
 1. Bristol Price Regression: individual project.
-2. DeepLearning: part of a bigger group project, in which I worked in collaboration with 2 colleagues, on 2 datasets (IMDB and fashion MNIST), applying Deep Learning techniques for supervised learning (sentiment analysis and image classification). 
+2. DeepLearning: part of a bigger group project, on which I worked in collaboration with 2 colleagues, on 2 datasets (IMDB and fashion MNIST), applying Deep Learning techniques for supervised learning (sentiment analysis and image classification). 
 
 ## Technologies
 Python 3.7.1 through Anaconda Navigator 4.6.3 (Spyder and Jupyter Notebook)
